@@ -1,0 +1,7 @@
+F:\УП по программированию\№1\Rabotai\Rabotai\bin\Debug\Rabotai.exe.config
+F:\УП по программированию\№1\Rabotai\Rabotai\bin\Debug\Rabotai.exe
+F:\УП по программированию\№1\Rabotai\Rabotai\bin\Debug\Rabotai.pdb
+F:\УП по программированию\№1\Rabotai\Rabotai\obj\Debug\Rabotai.csprojAssemblyReference.cache
+F:\УП по программированию\№1\Rabotai\Rabotai\obj\Debug\Rabotai.csproj.CoreCompileInputs.cache
+F:\УП по программированию\№1\Rabotai\Rabotai\obj\Debug\Rabotai.exe
+F:\УП по программированию\№1\Rabotai\Rabotai\obj\Debug\Rabotai.pdb
